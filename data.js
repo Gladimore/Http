@@ -1,1 +1,1 @@
-console.log("Retrived Data')
+alert("Retrived Data')
